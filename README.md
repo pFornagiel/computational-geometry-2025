@@ -1,4 +1,4 @@
-# Coputational Geometry
+# Computational Geometry
 ## Computer Science | AGH 2025
 
 ## Project Description
