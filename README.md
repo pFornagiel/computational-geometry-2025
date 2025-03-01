@@ -17,6 +17,12 @@ The laboratory template notebooks, visualiser and tests provided by the [BIT Sci
 | Lab 4 | Line Intersection - Sweep Line Algorithm | [Jupyter Notebook](labs/lab4/main.ipynb) |
 | Project | Orthogonal Range Searching - KDTree and Quadtree | [Project Repository](https://github.com/Hbrtjm/Geometric_Algorithms_Project) |
 
+<br/>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a0d72750-e5e4-4e23-8503-04f86abc5441" />
+  <p align="center"><a href="labs/lab2/main.ipynb">[Lab 2]</a><i>  | Visualisation of Graham Algorithm </i></p>
+</p>
+<br/>
 
 
 ## Prerequisites
